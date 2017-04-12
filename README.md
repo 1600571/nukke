@@ -1,0 +1,2 @@
+# nukke
+Sample Puppet repository
